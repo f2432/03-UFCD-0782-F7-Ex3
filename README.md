@@ -8,21 +8,21 @@ como o preço de cada fruta por kg. No final, o programa deve calcular o preço 
 compra e aplicar o desconto.
 
 ### Saída Esperada:
-Quantos kg de maçãs deseja comprar?
-2
-Qual o preço por kg de maçãs?
-5
-Quantos kg de bananas deseja comprar?
-3
-Qual o preço por kg de bananas?
-4
-Quantos kg de laranjas deseja comprar?
-1
-Qual o preço por kg de laranjas?
-6
-Qual o valor do desconto?
-3
-O preço total da compra é: 25.00 Euros
+Quantos kg de maçãs deseja comprar?  
+2↵  
+Qual o preço por kg de maçãs?  
+5↵  
+Quantos kg de bananas deseja comprar?  
+3↵  
+Qual o preço por kg de bananas?  
+4↵  
+Quantos kg de laranjas deseja comprar?  
+1↵  
+Qual o preço por kg de laranjas?  
+6↵  
+Qual o valor do desconto?  
+3↵  
+O preço total da compra é: 25.00 Euros  
  
 
 
